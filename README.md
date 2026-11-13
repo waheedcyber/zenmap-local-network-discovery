@@ -65,7 +65,8 @@ nmap -sn 192.168.1.0/24
 The Zenmap Ping Scan successfully discovered six responsive hosts on the authorized local `/24` network. This exercise provided hands-on practice with IPv4 addressing, subnetting, host discovery, MAC addresses, and basic Nmap output interpretation.
 
 ## Evidence
-See the screenshot folder 
+<img width="463" height="496" alt="png" src="https://github.com/user-attachments/assets/2b7c39b8-f557-41d2-b16f-ee6084a2d1b1" />
+
 
 
 ## Authorization and safety
