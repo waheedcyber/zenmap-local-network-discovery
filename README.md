@@ -65,9 +65,8 @@ nmap -sn 192.168.1.0/24
 The Zenmap Ping Scan successfully discovered six responsive hosts on the authorized local `/24` network. This exercise provided hands-on practice with IPv4 addressing, subnetting, host discovery, MAC addresses, and basic Nmap output interpretation.
 
 ## Evidence
-Add your own screenshots to the `evidence/` folder:
-- `ipconfig.png` — show the active adapter's IPv4 address and subnet mask. Hide unrelated private information.
-- `zenmap-scan.png` — show the Zenmap target, Ping Scan profile, and results.
+See the screenshot folder 
+
 
 ## Authorization and safety
 Only scan networks you own or have explicit permission to assess. This report describes a local network discovery exercise and does not claim that unknown hosts are malicious.
